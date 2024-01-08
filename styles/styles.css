@@ -1,0 +1,511 @@
+* {
+    margin: 0 auto;
+    font-family: Merriweather;
+}
+
+#fast {}
+
+.container {
+    background: (#070211, #07021100);
+    background-image: url(../images/Banner\ Image.png);
+   
+
+
+    width: 1320px;
+    height: 600px;
+    margin-top: 50px;
+    color: beige;
+}
+
+.newyear {
+   
+}
+
+.Happy {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-top: 177px;
+}
+
+.new-party {
+    width: 750px;
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 55px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 95px;
+    /* 131.944% */
+}
+
+#two {
+    margin: 150px 395px;
+
+}
+
+#two .container-two .OFF {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 48px;
+}
+
+#two .container-two {}
+
+.holiday h5 {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 18px;
+}
+
+#two .container-two .holiday h2 {
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    font-family: Merriweather;
+
+}
+
+.newyear-image {
+    width: 802.9px;
+    height: 500px;
+    flex-shrink: 0;
+    padding-top: 48px;
+
+
+}
+
+#welcome {
+    width: 1320px;
+    margin-top: 120px;
+    flex-shrink: 0;
+
+}
+
+#welcome .container-welcome {
+    background-image: url(../images/Vectorrr.png);
+    width: 100%;
+    height: 600px;
+    display: flex;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+
+}
+
+#welcome .container-welcome .welcome-div {
+    width: 642px;
+}
+
+#welcome .container-welcome .welcome-party {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    /* 137.5% */
+    letter-spacing: 7.04px;
+    padding-bottom: 24px;
+
+}
+
+#welcome .container-welcome .dlar {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 48px;
+    /* 166.667% */
+}
+
+#welcome .btn {
+    color: #FFF;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: #070211;
+    text-transform: uppercase;
+    border: none;
+}
+
+.container-hotel {
+    width: 1320px;
+    height: 482px;
+    flex-shrink: 0;
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
+    ;
+}
+
+.hotel-text .red {
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    /* 175% */
+    text-transform: capitalize;
+}
+
+.hotel-text {
+    color: #070211;
+    font-family: Inter;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 214px;
+
+}
+
+.btn-prymari {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+    padding: 10px 20px;
+    background-color: red;
+    border-radius: 8px;
+    border: none;
+    margin-top: 23px;
+
+}
+
+.new-best {
+    width: 1600px;
+    height: 482px;
+    display: flex;
+}
+
+#best {
+    margin-top: 80px;
+}
+
+#best .offer {
+    color: #FF0000;
+    text-align: left;
+    font-size: 24PX;
+    font-family: Inter;
+}
+
+#best h1 {
+    color: #FF0000;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+#best p {
+    color: rgba(7, 2, 17, 0.60);
+
+    font-family: Inter;
+    font-size: 21px;
+    padding-top: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.new-offer {
+    width: 393px;
+    padding-top: 80px;
+    padding-left: 70px;
+    justify-content: center;
+}
+
+
+#best .bg-banner {
+
+    border-radius: 364.844px;
+    background: ;
+    width: 364.844px;
+    height: 364.844px;
+    flex-shrink: 0;
+    border-radius: 463px;
+    border: 5px solid wheat;
+    border: 15px solid #F00;
+    background-repeat: no-repeat;
+    background: url(../images/Ellipse\ 1.png), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+
+}
+
+#best .last {
+    width: 276px;
+    padding-top: 100px;
+}
+
+#best .last h1 {
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+}
+
+#best .last img {
+    width: 140px;
+    height: 140px;
+
+}
+
+
+/*Gmail section*/
+#heading {}
+
+#email .container-g {
+    width: 1320px;
+    height: 616px;
+    background-color: rgb(248, 230, 230);
+    margin-bottom: 120px;
+    margin-top: 120px;
+    border-radius: 16px;
+
+
+}
+
+#email .heading-gmail {
+    width: 150px;
+    height: 150px;
+    flex-shrink: 0;
+    padding-bottom: 40px;
+}
+
+#email .heading-h {
+    color: #070211;
+    padding-bottom: 22px;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+#email .heading-p {
+    padding-bottom: 48px;
+    color: rgba(7, 2, 17, 0.60);
+    width: 880px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+#email .heading-btn {
+    width: 648px;
+    height: 72px;
+    flex-shrink: 0;
+    background-color: #F00;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+
+}
+
+#email .container-g {
+    padding-bottom: 0px;
+    padding-top: 80px;
+}
+
+#email .heading-btn .input {
+    height: 72px;
+    width: 510px;
+    border-radius: 50px 0px 0px 50px;
+    background-color: aliceblue;
+
+}
+
+#email .heading-btn .btn {
+    height: 72px;
+    text-align: center;
+    width: 300px;
+    background-color: #F00;
+    border-radius: 50%;
+
+}
+
+#email .heading-btn .btn .bbtn {
+    background-color: red;
+    padding-top: 15px;
+    color: aliceblue;
+    font-size: 30px;
+    text-align: center;
+    border: none;
+
+}
+
+
+
+/*Footer section*/
+#f-header {
+    background-color: #070211;
+    color: rgb(237, 209, 209);
+    width: 1600px;
+    height: 609px;
+    flex-shrink: 0;
+
+}
+
+#f-header .f-container {
+    display: flex;
+    padding-top: 120px;
+    font-size: 24px;
+}
+
+#f-header .container-one {
+    color: #FFF;
+    width: 375px;
+    height: 80px;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 40px;
+    /* 166.667% */
+    padding-left: 140px;
+}
+
+#f-header .icon {
+    padding-right: 291px;
+}
+
+#f-header .horoizental {
+    color: hsl(0, 0%, 2%);
+    width: 1240px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+#f-header .logo {
+    width: 64px;
+    height: 64px;
+}
+
+#f-header .perents-logo {
+    display: flex;
+    width: 296px;
+    margin: 48px 640px;
+}
+
+.f-footer {
+    justify-content: space-around;
+    display: flex;
+    font-size: 24px;
+    margin-top: 50px;
+}
+
+
+
+/*Image-Gallary*/
+.gallary {
+
+    height: 950px;
+}
+
+.galary-1 {
+    display: flex;
+
+}
+
+.galary-1 .galary-image:hover {
+    background-color: cyan;
+    border-radius: 5%;
+    border: 10px solid rgb(8, 8, 8);
+}
+
+.gallary-2 {
+    display: flex;
+    margin-top: 24px;
+}
+
+.gallary-2 .galary-image:hover {
+    background-color: cyan;
+    border-radius: 5%;
+    border: 10px solid rgb(8, 8, 8);
+}
+
+.container-galary {
+    width: 1320px;
+}
+
+.galary-image {
+    padding-left: 24px;
+}
+
+.galary-heading h4 {
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.galary-heading h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-bottom: 48px;
+}
+
+.ff{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+.galary-heading{
+    margin: 0px 0px 48px 0px;
+}
+
