@@ -2,24 +2,23 @@
     margin: 0 auto;
     font-family: Merriweather;
 }
-
-#fast {}
+/*section 0ne start*/
+#fast {
+    
+}
 
 .container {
     background: (#070211, #07021100);
-    background-image: url(../images/Banner\ Image.png);
+   background-image:url(../images/Banner\ Image.png);
    
-
-
     width: 1320px;
     height: 600px;
     margin-top: 50px;
-    color: beige;
+    color: rgb(50, 13, 13);
 }
 
 .newyear {
-   
-}
+}   
 
 .Happy {
     color: #FFF;
@@ -44,7 +43,8 @@
     line-height: 95px;
     /* 131.944% */
 }
-
+/*section 0ne end*/
+/*section two Start*/
 #two {
     margin: 150px 395px;
 
@@ -61,7 +61,9 @@
     padding-bottom: 48px;
 }
 
-#two .container-two {}
+#two .container-two {
+
+}
 
 .holiday h5 {
     color: #F00;
@@ -94,7 +96,9 @@
 
 
 }
+/*section two end*/
 
+/*section three start*/
 #welcome {
     width: 1320px;
     margin-top: 120px;
@@ -152,7 +156,8 @@
     text-transform: uppercase;
     border: none;
 }
-
+/*section Three start*/
+/*section four end*/
 .container-hotel {
     width: 1320px;
     height: 482px;
@@ -203,7 +208,8 @@
     margin-top: 23px;
 
 }
-
+/*section fourth end*/
+/*section five start*/
 .new-best {
     width: 1600px;
     height: 482px;
@@ -253,16 +259,12 @@
 
 #best .bg-banner {
 
-    border-radius: 364.844px;
-    background: ;
+
     width: 364.844px;
     height: 364.844px;
-    flex-shrink: 0;
-    border-radius: 463px;
-    border: 5px solid wheat;
-    border: 15px solid #F00;
-    background-repeat: no-repeat;
-    background: url(../images/Ellipse\ 1.png), lightgray -91.279px 0px / 150.038% 100% no-repeat;
+    border: 16px solid red;
+    border-radius: 50%;
+    padding: 25px;
 
 }
 
@@ -284,9 +286,177 @@
     width: 140px;
     height: 140px;
 
+
+}
+/*section five end*/
+/*section six start*/
+/*SALE 50%*/
+
+#sale-50{
+    margin: 120px 0px;
+}
+.container-sale {
+    width: 1320px;
+ margin-bottom: 64px;
 }
 
+#sale-50 .container-sale .fungtion h5 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 24px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
 
+#sale-50 .container-sale .holidays {
+    color: #F00;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+#sale-50 .container-sale .holidays .hoday {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+}
+
+#sale-50 .container-sale p {
+    width: 1064px;
+    height: 96px;
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+    /* 160% */
+}
+
+.discound {
+    width: 1312px;
+    height: 662px;
+    flex-shrink: 0;
+}
+
+.images {
+    width: 500px;
+    height: 429px;
+    margin-right: 100px;
+   }
+
+.bg {
+    background-image: url(../images/Rectangle\ 2.png);
+    width: 1320px;
+    height: 229px;
+    flex-shrink: 0;
+}
+
+.shoping {
+    width: 433px;
+    height: 429px;
+   margin-right: 200px;   
+}
+.shoping img{
+    width: 433px;
+    margin-right: 400px;
+    padding-right: 50px;
+}
+.tei{
+    display: flex;
+    width: 1320px;
+
+    background-image: url(../images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    
+    background-position: right bottom;
+   
+    
+}
+/*section six end*/
+/*section seven start*/
+/*Image-Gallary*/
+.gallary {
+
+    height: 950px;
+}
+
+.galary-1 {
+    display: flex;
+
+}
+
+.galary-1 .galary-image:hover {
+    background-color: cyan;
+    border-radius: 5%;
+    border: 10px solid rgb(8, 8, 8);
+}
+
+.gallary-2 {
+    display: flex;
+    margin-top: 24px;
+}
+
+.gallary-2 .galary-image:hover {
+    background-color: cyan;
+    border-radius: 5%;
+    border: 10px solid rgb(8, 8, 8);
+}
+
+.container-galary {
+    width: 1320px;
+}
+
+.galary-image {
+    padding-left: 24px;
+}
+
+.galary-heading h4 {
+    color: #F00;
+
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.galary-heading h1 {
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
+    padding-bottom: 48px;
+}
+
+.ff {
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+    /* 160% */
+}
+
+.galary-heading {
+    margin: 0px 0px 48px 0px;
+}
+
+/*section seven end*/
+/*section eight start*/
 /*Gmail section*/
 #heading {}
 
@@ -375,9 +545,9 @@
     border: none;
 
 }
+/*section eight stop*/
 
-
-
+/*section nine start*/
 /*Footer section*/
 #f-header {
     background-color: #070211;
@@ -412,7 +582,7 @@
 }
 
 #f-header .horoizental {
-    color: hsl(0, 0%, 2%);
+    color: hsl(0, 20%, 21%);
     width: 1240px;
     text-align: center;
     margin-top: 50px;
@@ -436,76 +606,4 @@
     font-size: 24px;
     margin-top: 50px;
 }
-
-
-
-/*Image-Gallary*/
-.gallary {
-
-    height: 950px;
-}
-
-.galary-1 {
-    display: flex;
-
-}
-
-.galary-1 .galary-image:hover {
-    background-color: cyan;
-    border-radius: 5%;
-    border: 10px solid rgb(8, 8, 8);
-}
-
-.gallary-2 {
-    display: flex;
-    margin-top: 24px;
-}
-
-.gallary-2 .galary-image:hover {
-    background-color: cyan;
-    border-radius: 5%;
-    border: 10px solid rgb(8, 8, 8);
-}
-
-.container-galary {
-    width: 1320px;
-}
-
-.galary-image {
-    padding-left: 24px;
-}
-
-.galary-heading h4 {
-    color: #F00;
-
-    font-family: Inter;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-}
-
-.galary-heading h1 {
-    color: #070211;
-    font-family: Merriweather;
-    font-size: 48px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: normal;
-    text-transform: capitalize;
-    padding-bottom: 48px;
-}
-
-.ff{
-    color: rgba(7, 2, 17, 0.60);
-    font-family: Inter;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 32px;
-    /* 160% */
-}
-.galary-heading{
-    margin: 0px 0px 48px 0px;
-}
-
+/*section nine end*/
